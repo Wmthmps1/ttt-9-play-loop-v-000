@@ -42,4 +42,3 @@ def play(board)
     turn(board)
     turn_number=turn_number+1
   end
-    
